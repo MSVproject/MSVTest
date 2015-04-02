@@ -1,0 +1,29 @@
+IRTree: 
+int x;
+int z;
+x<==3;
+z<==4;
+output();
+int y;
+y<==4;
+output();
+int m;
+m<==5;
+output();
+int n;
+n<==6;
+output();
+if (x<4)
+then {
+int p;
+p<==3;
+output()
+}
+else {
+int q;
+q<==4;
+output()
+}
+;
+output()
+
