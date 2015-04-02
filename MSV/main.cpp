@@ -42,7 +42,7 @@ int main()
 
 	//fout << "IRTree: ";
 	//Cmplr->PrintIRTree();
-	fout << endl;
+	//fout << endl;
 
 	return 0;
 }
